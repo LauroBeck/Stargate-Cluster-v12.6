@@ -1,0 +1,16 @@
+# Compiled Binaries
+stargate_monitor
+stargate_heatmap
+stargate_risk_monitor
+
+# Python Virtual Environment
+venv/
+__pycache__/
+*.pyc
+
+# Database Backups (Keep init_db.sql, ignore raw dumps)
+stargate_full_backup.sql
+stargate_schema.sql
+
+# OS Files
+.DS_Store
